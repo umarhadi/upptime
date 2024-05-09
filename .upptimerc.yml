@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: umarhadi.dev
     url: https://umarhadi.dev
+  - name: Mastodon
+    url: https://kawakawa.fun
 
 assignees:
   - umarhadi
