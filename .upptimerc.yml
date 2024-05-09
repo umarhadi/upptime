@@ -8,6 +8,10 @@ sites:
     url: https://kawakawa.fun
   - name: Pixelfed
     url: https://pixelfed.kawakawa.fun
+  - name: Home Server
+    check: "tcp-ping"
+    url: $HOME_SERVER
+    port: $HOME_SERVER_PORT
 
 assignees:
   - umarhadi
