@@ -7,6 +7,8 @@ sites:
     url: https://umarhadi.dev
   - name: Mastodon
     url: https://kawakawa.fun
+  - name: Pixelfed
+    url: https://pixelfed.kawakawa.fun
 
 assignees:
   - umarhadi
