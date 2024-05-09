@@ -11,12 +11,12 @@ sites:
   - name: Home Server
     check: "tcp-ping"
     url: $HOME_SERVER
-    port: $HOME_SERVER_PORT
+    port: 53
     icon: https://static.thenounproject.com/png/1306725-200.png
   - name: Jellyfin
     check: "tcp-ping"
     url: $HOME_SERVER
-    port: $JELLYFIN_PORT
+    port: 53
     icon: https://github.com/walkxcode/dashboard-icons/raw/main/svg/jellyfin.svg
 
 assignees:
