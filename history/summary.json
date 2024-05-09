@@ -59,19 +59,17 @@
     "icon": "https://static.thenounproject.com/png/1306725-200.png",
     "slug": "home-server",
     "status": "up",
-    "uptime": "0.54%",
-    "uptimeDay": "0.54%",
-    "uptimeWeek": "0.54%",
-    "uptimeMonth": "0.54%",
-    "uptimeYear": "0.54%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 6,
     "timeDay": 6,
     "timeWeek": 6,
     "timeMonth": 6,
     "timeYear": 6,
-    "dailyMinutesDown": {
-      "2024-05-09": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jellyfin",
@@ -79,18 +77,16 @@
     "icon": "https://github.com/walkxcode/dashboard-icons/raw/main/svg/jellyfin.svg",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "0.74%",
-    "uptimeDay": "0.74%",
-    "uptimeWeek": "0.74%",
-    "uptimeMonth": "0.74%",
-    "uptimeYear": "0.74%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 6,
     "timeDay": 6,
     "timeWeek": 6,
     "timeMonth": 6,
     "timeYear": 6,
-    "dailyMinutesDown": {
-      "2024-05-09": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
