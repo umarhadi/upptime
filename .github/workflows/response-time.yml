@@ -38,7 +38,7 @@ jobs:
           oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
           tags: tag:ci
       - name: Update response time
-        uses: upptime/uptime-monitor@v1.36.4
+        uses: upptime/uptime-monitor@v1.37.0
         with:
           command: "response-time"
         env:
